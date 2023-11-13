@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "467346348219",
+    "firebase_url": "https://login-register-e10e0-default-rtdb.firebaseio.com",
+    "project_id": "login-register-e10e0",
+    "storage_bucket": "login-register-e10e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467346348219:android:3dbd27e7257f113313b19e",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Xxz6J6cbdkPa90dVcANaRqApXS6uPDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
